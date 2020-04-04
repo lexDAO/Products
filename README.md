@@ -72,7 +72,7 @@ OpenLaw forms:
 
 # SERVICES
 
-## SMART CO.
+## Smart Co. 
 > LexDAO wraps your project into a Delaware LLC operating on Ethereum.
 - [Smart Contract](https://etherscan.io/address/0xd94e2dde18db7844242e5fbc6cafe116e2a5965f#code)  🤖
 - [Etherscan Dapp](https://etherscan.io/dapp/0xd94e2dde18db7844242e5fbc6cafe116e2a5965f#writeContract)  💼
