@@ -59,6 +59,12 @@ OpenLaw forms:
 
 # CERTIFICATION
 
+## Legal Engineering (NFT)
+> LexDAO Legal Engineers certify domain expertise using digital committee on Aragon and NFTs.
+
+- [Smart Contract](https://etherscan.io/address/0xba2e37f18b647f19aa2e48581729fc4d0131b270#code)  🤖
+- [Etherscan Dapp](https://etherscan.io/dapp/0xba2e37f18b647f19aa2e48581729fc4d0131b270#writeContract)  💼
+
 ## Accreditation (NFT)
 > LexDAO Lawyers certify accreditation status using digital committee on Aragon and NFTs.
 
@@ -74,10 +80,11 @@ OpenLaw forms:
 
 ## Smart Co. 
 > LexDAO wraps your project into a Delaware LLC operating on Ethereum.
+
 - [Smart Contract](https://etherscan.io/address/0xd94e2dde18db7844242e5fbc6cafe116e2a5965f#code)  🤖
 - [Etherscan Dapp](https://etherscan.io/dapp/0xd94e2dde18db7844242e5fbc6cafe116e2a5965f#writeContract)  💼
 
-## Research (`Offer Token` ERC-20)
+## Research 
 > LexDAO delivers written reports on research topics requested by LDR token holders, sold on Uniswap.
 
 - [Smart Contract](https://etherscan.io/address/0x913b5d0ececaf3a6b267d3ebc29f3361e6e75633#code)  🤖
