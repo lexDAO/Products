@@ -15,7 +15,7 @@ OpenLaw forms:
 - [GENERATE PERSONAL TOKEN](https://lib.openlaw.io/web/default/template/Generate%20Personal%20Token)
 
 ## LexBank
-> Wrapper for Dai ERC-20 earning on DSR and secured by LexDAO Arbitration.
+> Wrapper for Dai ERC-20 earning on DSR and secured by LexDAO Governance.
 
 - [Codebase](https://github.com/lexDAO/LexBank)  🔐
 - [Smart Contract](https://etherscan.io/address/0xdab9050983202fb4d9941e010df660376fa6726f#code)  🤖
@@ -28,7 +28,7 @@ OpenLaw forms:
 # DEALS
 
 ## LexGrow
-> Deal Lockers (Dai ERC-20) storing legal terms, earning on DSR, and secured by LexDAO Arbitration.
+> Deal Lockers (Dai ERC-20) storing legal terms, earning on DSR, and secured by LexDAO Governance.
 
 - [Codebase](https://github.com/lexDAO/Escrow)  🔐
 - [Smart Contract](https://etherscan.io/address/0xd08d4f315f9a05a4e814976a6789b9c1fcdd00b9#code)  🤖
@@ -39,7 +39,7 @@ OpenLaw forms:
 - [DIGITAL ESCROW FOR SALE OF GOODS](https://lib.openlaw.io/web/default/template/Digital%20Escrow%20for%20Sale%20of%20Goods)
 
 ## TLDR
-> Deal Lockers (All ERC-20) secured by LexDAO Arbitration on legal terms maintained by LexDAO Scribes.
+> Deal Lockers (All ERC-20) secured by LexDAO Governance on legal terms maintained by LexDAO Scribes.
 
 - [Codebase](https://github.com/lexDAO/TLDR)  🔐
 - [Smart Contract](https://etherscan.io/address/0x8CEDe32BbbCe5854992e151Fe215f2887E522553#code)  🤖
@@ -47,7 +47,7 @@ OpenLaw forms:
 - [Etherscan Dapp](https://etherscan.io/dapp/0x8CEDe32BbbCe5854992e151Fe215f2887E522553#writeContract)  💼
 
 ## LEE
-> Deal Lockers (Ether) storing legal terms and secured by LexDAO Arbitration.
+> Deal Lockers (Ether) storing legal terms and secured by LexDAO Governance.
 
 - [Codebase](https://github.com/lexDAO/LEE)  🔐
 - [Smart Contract](https://etherscan.io/address/0xf8bb603941d555559a6b7b6a406dee5db8c8802f#code)  🤖
