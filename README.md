@@ -31,8 +31,8 @@ OpenLaw forms:
 > Deal Lockers (Dai ERC-20) storing legal terms, earning on DSR, and secured by LexDAO Governance.
 
 - [Codebase](https://github.com/lexDAO/Escrow)  🔐
-- [Smart Contract](https://etherscan.io/address/0xd08d4f315f9a05a4e814976a6789b9c1fcdd00b9#code)  🤖
-- [Etherscan Dapp](https://etherscan.io/dapp/0xd08d4f315f9a05a4e814976a6789b9c1fcdd00b9#writeContract)  💼
+- [Smart Contract](https://etherscan.io/address/0x4bc9968C5E947b4867a4db28022c78D12A3C419e#code)  🤖
+- [Etherscan Dapp](https://etherscan.io/dapp/0x4bc9968C5E947b4867a4db28022c78D12A3C419e#writeContract)  💼
 
 OpenLaw forms: 
 
